@@ -1,12 +1,6 @@
 # AboutMe
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User ID:	SH4MR0CK
-Comment: Valid from:	10/4/2025 2:49 AM
-Comment: Type:	4,096-bit RSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User IDs
-Comment: Fingerprint:	46FB8FBEE52A37E7F1BBC68B382DA9386782BFEF
-
 
 mQINBGjg7ZEBEADVE9+g3Nw2EP6dxbaptlBd7w3tdGkAFrbc14dk4Pj0VPuTud1N
 4eHJ0YYvzd0IwMobwoC1VZD6T2T4w90aEeLKJEpm0A4vQOjnL6V4hBCnfz76Srmi
